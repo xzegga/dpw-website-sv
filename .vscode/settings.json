@@ -1,0 +1,11 @@
+{
+    "html.format.wrapLineLength": 100,
+    "editor.wordWrapColumn": 100,
+    "html.format.wrapAttributes": "aligned-multiple",
+    "prettier.bracketSameLine": true,
+    "editor.formatOnSave": true,
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.tabSize": 2
+}

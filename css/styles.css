@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+/*!
+ * Bootstrap overrides
+ * Copyright 2023 Grupo No 2, Desarrollo de la Plataforma Web
+ */
+ 
+ .feature {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 4rem;
+  width: 4rem;
+  font-size: 2rem;
+}
+
+.hero-background {
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: right 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero-home-page {
+  background-image: url(../images/foto-portada-opt.jpg);
+  min-height: 400px;
+}
+
+.hero-ruta-de-las-flores {
+  background-image: url(../images/ruta-de-las-flores.jpeg);
+  min-height: 250px;
+  max-height: 250px;
+}
+
+.blend-mode-multiply {
+  background-color: rgba(0, 0, 0, 0.5);
+  mix-blend-mode: multiply;
+}
+
+.flah-sv {
+  max-width: 65px;
+}
