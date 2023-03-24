@@ -38,7 +38,8 @@
   min-height: 250px;
   max-height: 250px;
   width: auto;
-
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .blend-mode-multiply {
