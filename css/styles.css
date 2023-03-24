@@ -33,6 +33,15 @@
   max-height: 250px;
 }
 
+.hero-lago-coatepeque {
+  background-image: url(../images/lago-coatepeque2.png);
+  min-height: 250px;
+  max-height: 250px;
+  width: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .blend-mode-multiply {
   background-color: rgba(0, 0, 0, 0.5);
   mix-blend-mode: multiply;
