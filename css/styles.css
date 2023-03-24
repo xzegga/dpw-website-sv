@@ -50,3 +50,20 @@
 .flah-sv {
   max-width: 65px;
 }
+
+.hero-background {
+  background-color: #000;
+}
+
+.hero-ruta-maya {
+  background-image: url('../images/ruta-maya.jpg');
+}
+
+h1.display-1 {
+  font-size: 3rem;
+}
+
+h2.lead {
+  font-size: 2rem;
+}
+
