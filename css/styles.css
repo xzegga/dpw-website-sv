@@ -27,31 +27,35 @@
   min-height: 400px;
 }
 
-.hero-ruta-de-las-flores {
-  background-image: url(../images/ruta-de-las-flores.jpeg);
+.internal-hero {
   min-height: 250px;
   max-height: 250px;
+  width: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hero-ruta-de-las-flores {
+  background-image: url(../images/ruta-de-las-flores.jpeg);
 }
 
 .hero-lago-coatepeque {
   background-image: url(../images/lago-coatepeque2.png);
-  min-height: 250px;
-  max-height: 250px;
-  width: auto;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
 .hero-playa-tunco {
   background-image: url('../images/playa4.jpg');
-  min-height: 250px;
-  max-height: 250px;
-  width: auto;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
 
+.hero-centro-historico {
+  background-image: url('../images/cover-centro-historico.png');
+}
+
+.thumbs img{
+  width: 100%;
+  margin-bottom: 30px;
+}
 
 .blend-mode-multiply {
   background-color: rgba(0, 0, 0, 0.5);
