@@ -42,6 +42,17 @@
   background-repeat: no-repeat;
 }
 
+.hero-playa-tunco {
+  background-image: url('../images/playa4.jpg');
+  min-height: 250px;
+  max-height: 250px;
+  width: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+
 .blend-mode-multiply {
   background-color: rgba(0, 0, 0, 0.5);
   mix-blend-mode: multiply;
